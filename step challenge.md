@@ -1,0 +1,1 @@
+This step challenge project was created with python to visualize my step counts for a step challenge at work. I collected my steps and matched them to the day of my walk. The goal was to show my colleagues a visual representation of data, dates, and plots. 
